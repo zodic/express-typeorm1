@@ -3,9 +3,10 @@ In this section, we will use PostgreSQL. The world's most advanced open source d
 ## Example Installation Guide
 Steps to run this project:
 1. Install PoestgreSQL from [https://www.postgresql.org/download/](https://www.postgresql.org/download/).
-2. Run `npm install` command.
-3. Setup database settings inside `data-source.ts` file.
-4. Run `npm start` command.
-5. We can test our project using [Postman](https://www.postman.com/downloads/).
+2. Open Node.js command tool.
+3. Run `npm install` command.
+4. Setup database settings inside `data-source.ts` file.
+5. Run `npm start` command.
+6. We can test our project using [Postman](https://www.postman.com/downloads/).
 ## Reference
 [Teisume](https://teisume.blogspot.com)
