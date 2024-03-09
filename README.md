@@ -9,4 +9,4 @@ Steps to run this project:
 5. Run `npm start` command.
 6. We can test our project using [Postman](https://www.postman.com/downloads/).
 ## Reference
-[Teisume](https://teisume.blogspot.com)
+[Teisume](https://teisume.blogspot.com/2024/03/typeorm-express-rdbms-tutorial-part1.html)
